@@ -1,14 +1,18 @@
 {
   "name": "dynamic-module-loading",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "live-server --ignore=src"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+      "aurelia",
+      "skeleton",
+      "minimal"
+  ],
+  "author": "Daniel Bendel <daniel.bendel@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-plugin-transform-es2015-modules-systemjs": "^6.9.0",
